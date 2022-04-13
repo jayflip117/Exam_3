@@ -1,2 +1,2 @@
-This is the second file for the exam
+This is the second file for the exam challenge 2
 This is another file for testing
