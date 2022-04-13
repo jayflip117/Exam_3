@@ -1,2 +1,3 @@
-This is the second file for the exam challenge 2
+
+This is the second file for the exam and this is the first change for challenge 2, conflicting lines were removed
 This is another file for testing
